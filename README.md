@@ -2,15 +2,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
-</div>
+  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
 
 ###
-
-<br clear="both">
 
 <p align="left">🎓 I'm a third-year computer science student at the Silesian University of Technology.<br><br>🎯 My main goal is to develop expertise in artificial intelligence, especially in the context of medicine.<br><br>💻 I'm an active member of the Data Science student circle at the Silesian University of Technology, which enables me to participate in various workshops and projects related to AI and ML.<br><br>👩🏼‍💻 During my studies, I've had the opportunity to become familiar with many tools, and I've strived to deepen my understanding of each one. On my repository, you'll find at least one project in each programming language I wanted to dive into.<br><br>🔍 Currently, I'm actively seeking my first job or internship.<br><br>🚀 I'm currently working on the following projects:<br>- Predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, NumPy, Pandas)<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>-RPG game (Unity)</p>
 
