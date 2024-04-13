@@ -49,8 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -80,8 +78,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agatoneq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=agatoneq&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br><br>
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=agatoneq&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=agatoneq&label=Profile%20Views&color=9&icon=5&pretty=true" />
 </a>
+
 </div>
 
 ###
