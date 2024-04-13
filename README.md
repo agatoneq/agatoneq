@@ -1,8 +1,8 @@
-<h1 align="left">About me</h1>
+<h1 align="left">✨ About me</h1>
 
 ###
 
-  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
+  <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
 
 ###
 
