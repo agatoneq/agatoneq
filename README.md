@@ -1,12 +1,19 @@
 <h1 align="left">✨ About me</h1>
 
 ###
-
-  <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
+<!--
+ <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
+-->
 
 ###
 
-<p align="left">🎓 I'm a third-year computer science student at the Silesian University of Technology.<br><br>🎯 My main goal is to develop expertise in artificial intelligence, especially in the context of medicine.<br><br>💻 I'm an active member of the Data Science student circle at the Silesian University of Technology, which enables me to participate in various workshops and projects related to AI and ML.<br><br>👩🏼‍💻 During my studies, I've had the opportunity to become familiar with many tools, and I've strived to deepen my understanding of each one. On my repository, you'll find at least one project in each programming language I wanted to dive into.<br><br>🔍 Currently, I'm actively seeking my first job or internship.<br><br>🚀 I'm currently working on the following projects:<br>- Predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, NumPy, Pandas)<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>-RPG game (Unity)</p>
+<p align="left">🎓 I'm a third-year computer science student at the Silesian University of Technology.<br><br>
+  📊 I aspire to grow and work in the field of data science and machine learning, as well as the broader realm of big data.<br><br>
+  💻 I'm an active member of the Data Science student circle at the Silesian University of Technology, which enables me to participate in various workshops and projects related to AI and ML.<br><br>
+  🎯 My main goal is to develop expertise in artificial intelligence, especially in the context of medicine.<br><br>
+  👩🏼‍💻 During my studies, I've had the opportunity to become familiar with many tools, and I've strived to deepen my understanding of each one. On my repository, you'll find at least one project in each programming language I wanted to dive into.<br><br>
+  🔍 Currently, I'm actively seeking my first job or internship.<br><br>
+  🚀 I'm currently working on the following projects:<br>- Predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, NumPy, Pandas)<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>-RPG game (Unity)</p>
 
 ###
 
@@ -17,6 +24,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -24,8 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
@@ -35,26 +44,35 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" height="40" alt="powerBi logo"  />
 </div>
+
+
+
 
 ###
 
