@@ -7,13 +7,14 @@
 
 ###
 
-<p align="left">🎓 I'm a third-year computer science student at the Silesian University of Technology.<br><br>
+<p align="left">🎓 I'm a fourth-year computer science student at the Silesian University of Technology.<br><br>
   📊 I aspire to grow and work in the field of data science and machine learning, as well as the broader realm of big data.<br><br>
   💻 I'm an active member of the Data Science student circle at the Silesian University of Technology, which enables me to participate in various workshops and projects related to AI and ML.<br><br>
   🎯 My main goal is to develop expertise in artificial intelligence, especially in the context of medicine.<br><br>
   👩🏼‍💻 During my studies, I've had the opportunity to become familiar with many tools, and I've strived to deepen my understanding of each one. On my repository, you'll find at least one project in each programming language I wanted to dive into.<br><br>
   🔍 Currently, I'm actively seeking my first job or internship.<br><br>
-  🚀 I'm currently working on the following projects:<br>- Predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, NumPy, Pandas)<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>-RPG game (Unity)</p>
+  🚀 I'm currently working on the following projects:<br>- Engineering thesis: predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, Keras, NumPy, Pandas)<br>- Developing classification models based on deep convolutional neural networks to identify the degree of aortic arch calcification using chest X-rays (Python, TensorFlow, OpenCV)<br><br>
+  💡 My last projects:<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>- RPG game (Unity, C#)</p>
 
 ###
 
