@@ -1,20 +1,41 @@
-<h1 align="left">✨ About me</h1>
 
-###
-<!--
- <img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQEUf8TTFzlCkw/profile-displayphoto-shrink_800_800/0/1698347508933?e=1718236800&v=beta&t=nG4dWrTZZA3NjxQegGDkuyjjPK51wJ9QmOCx4BJi6yY"  />
--->
+# ✨ About Me
 
-###
+🎓 I'm a master's student in Control, Electronic and Information Engineering with a specialization in Data Science at the Silesian University of Technology.  <br>
+📊 I’m passionate about machine learning, data science, and performance-optimized software – especially in image and signal processing.  <br>
+💡 My long-term goal is to work in applied AI, with a particular focus on medicine, neuroscience, and high-performance systems.  <br>
+🌱 Currently expanding my skills in parallel programming (C++ threads, OpenMP, CUDA) and low-level algorithm optimization.  
 
-<p align="left">🎓 I'm a fourth-year computer science student at the Silesian University of Technology.<br><br>
-  📊 I aspire to grow and work in the field of data science and machine learning, as well as the broader realm of big data.<br><br>
-  💻 I'm an active member of the Data Science student circle at the Silesian University of Technology, which enables me to participate in various workshops and projects related to AI and ML.<br><br>
-  🎯 My main goal is to develop expertise in artificial intelligence, especially in the context of medicine.<br><br>
-  👩🏼‍💻 During my studies, I've had the opportunity to become familiar with many tools, and I've strived to deepen my understanding of each one. On my repository, you'll find at least one project in each programming language I wanted to dive into.<br><br>
-  🔍 Currently, I'm actively seeking my first job or internship.<br><br>
-  🚀 I'm currently working on the following projects:<br>- Engineering thesis: predicting symptoms of schizophrenia using brain response analysis with neural networks (Python, Keras, NumPy, Pandas)<br>- Developing classification models based on deep convolutional neural networks to identify the degree of aortic arch calcification using chest X-rays (Python, TensorFlow, OpenCV)<br><br>
-  💡 My last projects:<br>- Association rules induction (Shiny for Python)<br>- Online Gradebook (C#, ASP.NET, backend)<br>- RPG game (Unity, C#)</p>
+
+
+## 🚀 Projects
+
+I love learning by doing. That’s why I’ve explored many areas of computer science through diverse hands-on projects.  
+Even if I only touch a technology once, it makes it much easier to return to it later – and I’m always motivated to learn what’s currently needed.
+
+Some of the projects that matter most to me:
+- **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity *(app available, model excluded due to scientific publication in progress)* – Github
+- **Medical image classification** – convolutional models for aortic arch calcification detection *(not public due to scientific paper)* – Github
+- **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – Github
+
+
+
+## 📌 Highlights
+
+- 🥈 2nd place – **Bit Festival Hackathon**, BEST Gliwice (Dec 2024)  
+- 🧠 Distinction for presentation – **National Conference of Young Scientists** (Nov 2024)  
+- 🎓 Vice President – **Student Scientific Association "Data Science"**  
+  - Led workshops, hackathons
+  - Managed social media (LinkedIn & Instagram)  
+  - Participated in 3 hackathons, 3 active conference presentations, machine learning events and team-based AI projects  
+
+
+
+## 📫 How to Connect with Me
+
+📧 Email: **agatasobczyk4@gmail.com**  
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/agata-sobczyk-ds/)
+
 
 ###
 
