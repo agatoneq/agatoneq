@@ -12,8 +12,8 @@ I love learning by doing. That’s why I’ve explored many areas of computer sc
 Even if I only touch a technology once, it makes it much easier to return to it later – and I’m always motivated to learn what’s currently needed.
 
 Some of the projects that matter most to me:
-- **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity *(app available, model excluded due to scientific publication in progress)* – [Github](https://github.com/agatoneq/Cerebri-Sense)
-- **Medical image classification** – convolutional models for aortic arch calcification detection *(not public due to scientific paper)*
+- **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity – [Github](https://github.com/agatoneq/Cerebri-Sense) *(app available, model excluded due to scientific publication in progress)*
+- **Medical image classification** – convolutional models for aortic arch calcification detection, where I was responsible for lung segmentation using U-Net and developing a custom algorithm for automatic window level (WL) adjustment for DICOM images – *(not public due to scientific paper)*
 - **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – [Github](https://github.com/agatoneq/Image-Binarization-Asm)
 
 
@@ -44,7 +44,7 @@ Some of the projects that matter most to me:
 
 ## 🛠️ Tools I Use Most Often
 
-<table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br>C++</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/><br>C#</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40"/><br>Jupyter Notebook</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br>React</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/><br>TensorFlow</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br>Pandas</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/><br>NumPy</td> </tr> </table>
+<table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br>C++</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/><br>C#</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br>React</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/><br>TensorFlow</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br>Pandas</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/><br>NumPy</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40"/><br>Jupyter Notebook</td> </tr> </table>
 
           
 ## 💻 Other Tools I’ve Worked With
