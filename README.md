@@ -12,9 +12,9 @@ I love learning by doing. That’s why I’ve explored many areas of computer sc
 Even if I only touch a technology once, it makes it much easier to return to it later – and I’m always motivated to learn what’s currently needed.
 
 Some of the projects that matter most to me:
-- **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity *(app available, model excluded due to scientific publication in progress)* – Github
-- **Medical image classification** – convolutional models for aortic arch calcification detection *(not public due to scientific paper)* – Github
-- **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – Github
+- **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity *(app available, model excluded due to scientific publication in progress)* – [Github](https://github.com/agatoneq/Cerebri-Sense)
+- **Medical image classification** – convolutional models for aortic arch calcification detection *(not public due to scientific paper)*
+- **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – [Github](https://github.com/agatoneq/Image-Binarization-Asm)
 
 
 ## 📌 Highlights
@@ -50,3 +50,4 @@ Some of the projects that matter most to me:
 ## 💻 Other Tools I’ve Worked With
 
 <table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/><br>Flask</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br>PostgreSQL</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br>MySQL</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br>Git</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/><br>Azure</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/><br>Kubernetes</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/><br>Anaconda</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br>VS Code</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/><br>Visual Studio</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"/><br>LaTeX</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40"/><br>SQLAlchemy</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40"/><br>Linux</td> </tr> </table>
+
