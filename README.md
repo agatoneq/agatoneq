@@ -1,12 +1,10 @@
 
 # ✨ About Me
 
-🎓 I'm a master's student in Control, Electronic and Information Engineering with a specialization in Data Science at the Silesian University of Technology.  <br>
-📊 I’m passionate about machine learning, data science, and performance-optimized software – especially in image and signal processing.  <br>
-💡 My long-term goal is to work in applied AI, with a particular focus on medicine, neuroscience, and high-performance systems.  <br>
-🌱 Currently expanding my skills in parallel programming (C++ threads, OpenMP, CUDA) and low-level algorithm optimization.  
-
-
+🎓 I'm a master's student in Control, Electronic and Information Engineering with a specialization in Data Science at the Silesian University of Technology. <br><br>
+📊 I’m passionate about machine learning, data science, and performance-optimized software – especially in image and signal processing.<br><br>
+💡 My long-term goal is to work in applied AI, with a particular focus on medicine, neuroscience, and high-performance systems.<br><br>
+🌱 Currently expanding my skills in parallel programming (C++ threads, OpenMP, CUDA) and low-level algorithm optimization.<br>
 
 ## 🚀 Projects
 
@@ -19,7 +17,6 @@ Some of the projects that matter most to me:
 - **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – Github
 
 
-
 ## 📌 Highlights
 
 - 🥈 2nd place – **Bit Festival Hackathon**, BEST Gliwice (Dec 2024)  
@@ -30,11 +27,19 @@ Some of the projects that matter most to me:
   - Participated in 3 hackathons, 3 active conference presentations, machine learning events and team-based AI projects  
 
 
-
 ## 📫 How to Connect with Me
 
-📧 Email: **agatasobczyk4@gmail.com**  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/agata-sobczyk-ds/)
+<p align="left">
+  <a href="mailto:agatasobczyk4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" />
+    agatasobczyk4@gmail.com
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/agata-sobczyk-ds/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" />
+    linkedin.com/in/agata-sobczyk-ds
+  </a>
+</p>
 
 
 ###
