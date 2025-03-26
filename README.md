@@ -30,14 +30,14 @@ Some of the projects that matter most to me:
 ## 📫 How to Connect with Me
 
 <p align="left">
-  <a href="mailto:agatasobczyk4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo" />
-    agatasobczyk4@gmail.com
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/agata-sobczyk-ds/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo" />
+    <a href="https://www.linkedin.com/in/agata-sobczyk-ds/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
     linkedin.com/in/agata-sobczyk-ds
+  </a>
+    <br>
+  <a href="mailto:agatasobczyk4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
+    agatasobczyk4@gmail.com
   </a>
 </p>
 
