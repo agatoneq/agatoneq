@@ -22,8 +22,8 @@ Some of the projects that matter most to me:
 - 🥈 2nd place – **Bit Festival Hackathon**, BEST Gliwice (Dec 2024)  
 - 🧠 Distinction for presentation – **National Conference of Young Scientists** (Nov 2024)  
 - 🎓 Vice President – **Student Scientific Association "Data Science"**  
-  - Led workshops, hackathons
-  - Managed social media (LinkedIn & Instagram)  
+  - Led workshops
+  - Managed social media
   - Participated in 3 hackathons, 3 active conference presentations, machine learning events and team-based AI projects  
 
 
