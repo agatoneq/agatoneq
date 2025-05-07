@@ -2,9 +2,8 @@
 # ✨ About Me
 
 🎓 I'm a master's student in Control, Electronic and Information Engineering with a specialization in Data Science at the Silesian University of Technology. <br><br>
-📊 I’m passionate about machine learning, data science, and performance-optimized software – especially in image and signal processing.<br><br>
-💡 My long-term goal is to work in applied AI, with a particular focus on medicine, neuroscience, and high-performance systems.<br><br>
-🌱 Currently expanding my skills in parallel programming (C++ threads, OpenMP, CUDA) and low-level algorithm optimization.<br>
+📊 I’m passionate about machine learning and data science, especially in image and signal processing.<br><br>
+💡 My long-term goal is to work in applied AI, with a particular focus on medicine, especially psychiatry and neuroscience.<br>
 
 ## 🚀 Projects
 
@@ -14,8 +13,6 @@ Even if I only touch a technology once, it makes it much easier to return to it 
 Some of the projects that matter most to me:
 - **EEG signal analysis** – deep learning platform for predicting schizophrenia from brainwave activity – [Github](https://github.com/agatoneq/Cerebri-Sense) *(app available, model excluded due to scientific publication in progress)*
 - **Medical image classification** – convolutional models for aortic arch calcification detection, where I was responsible for lung segmentation using U-Net and developing a custom algorithm for automatic window level (WL) adjustment for DICOM images – *(not public due to scientific paper)*
-- **Image binarization in Assembly** – low-level image processing application with multi-threaded execution and performance benchmarking (C# vs. SIMD assembly) – [Github](https://github.com/agatoneq/Image-Binarization-Asm)
-
 
 ## 📌 Highlights
 
